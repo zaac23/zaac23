@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu Perfil ✔️
 
-<!--
-**zaac23/zaac23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isaac Zanirato
 
-Here are some ideas to get you started:
+- Estou estudando a Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Aqui é o meu espaço para organização
+- Toco violino 🎻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Voce pode entrar em contato comigo por aqui 👌
+
+- isaaczanirato260@gmail.com
+
+
+![](https://tenor.com/pt-BR/view/playing-violin-so-sad-gif-10001927)
+
+
